@@ -1,4 +1,4 @@
-# Clear Translation Bible — Old Testament Audio
+# Clear English Bible — Old Testament Audio
 
 This shelf holds the Old Testament half of the **Clear Translation Bible**, read aloud: 46 books, from Genesis to Malachi, in the Catholic order of the full 73-book Bible.
 
@@ -14,5 +14,7 @@ Eight of these books are long, so each of them stands here in two parts — Part
 The text of the whole Bible stands on its own shelf: **clear-translation-bible**. The New Testament readings stand on the companion audio shelf: **clear-translation-bible-audio-nt**. This shelf is **clear-translation-bible-audio-ot**.
 
 Every file on this shelf is listed, with its size and length, in `MANIFEST.csv`. In all, this shelf carries about 83 hours of listening.
+
+The shelves by their settled names: the text of the whole Bible stands at [Clear English Bible](https://github.com/roberttilford19-sketch/clear-english-bible); the New Testament readings stand at [Clear English Bible — New Testament Audio](https://github.com/roberttilford19-sketch/clear-english-bible-audio-nt); this shelf is [Clear English Bible — Old Testament Audio](https://github.com/roberttilford19-sketch/clear-english-bible-audio-ot).
 
 *Published on this shelf October 18, 2026.*
